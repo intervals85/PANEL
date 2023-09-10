@@ -13,7 +13,9 @@
       "maintenance": "0",
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.corndevils.kissasian",
-      "base_url": "https://runasian.net/"
+      "base_url": "https://runasian.net/",
+      "current_version": "1.0.0",
+      "blogger_url": "https://animesuge77.blogspot.com/"
     }
   ]
 }
