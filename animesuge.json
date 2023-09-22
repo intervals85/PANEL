@@ -1,21 +1,25 @@
 {
-  "ADS": [
-    {
-      "select_main_ads": "APPLOVIN-M",
-      "select_backup_ads": "",
-      "initialize_sdk": "BvB6qXTJ3WWSrBhfXyzBd58GGE9FevIgP1JM24y3OKO_ASFMkka5kuTeo9dWv0l8DGQq9KEh5GrySRITmp9vHm",
-      "initialize_sdk_backup": "",
-      "main_ads_banner": "ac277f2a7d1e92f9",
-      "backup_ads_banner": "",
-      "main_ads_interstitial": "10fa3fbf1abc002d",
-      "backup_ads_interstitial": "",
-      "interstitial_counter": "10",
-      "maintenance": "0",
-      "status_app": "0",
-      "link_redirect": "https://play.google.com/store/apps/details?id=com.corndevils.kissasian",
-      "base_url": "https://aniwatch.to",
-      "current_version": "1.0.0",
-      "blogger_url": "https://animesuge77.blogspot.com/"
-    }
-  ]
+    "ADS": [
+        {
+            "select_main_ads": "APPLOVIN-M",
+            "select_backup_ads": "",
+            "initialize_sdk": "X8O6FyOMsWfoiliX1lBk6Lz_kRCNx6RGIDTUfBuH98qJVfmbIMUXXPHSpbe4dlhVkEn9mAi93AwfliUeU1xgQi",
+            "initialize_sdk_backup": "",
+            "main_ads_banner": "84062dc411aa24bb",
+            "backup_ads_banner": "",
+            "main_ads_interstitial": "53fca575f6528dd7",
+            "backup_ads_interstitial": "",
+            "rewarded_ad_id": "53fca575f6528dd7",
+            "interstitial_counter": "10",
+            "maintenance": "1",
+            "status_app": "0",
+            "link_redirect": "https://play.google.com/store/apps/details?id=com.flawlessx.dramaflix",
+            "facebook": "https://www.facebook.com/profile.php?id=100090252105765",
+            "instagram": "https://www.instagram.com/dramako_asian/reels/",
+            "other_app": "https://play.google.com/store/apps/details?id=com.GoAsian.Dramas",
+            "base_url": "https://aniwatch.to",
+            "current_version": "1.0.0",
+            "blogger_url": "https://animesuge77.blogspot.com/"
+        }
+    ]
 }
