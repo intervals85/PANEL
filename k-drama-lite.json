@@ -2,7 +2,7 @@
   "ADS": [
     {
       "select_main_ads": "APPLOVIN-M",
-      "select_backup_ads": "",
+      "select_backup_ads": "ADMOB",
       "initialize_sdk": "6UkH-GQ66vXybOyFSFoi9-VJn4vla5mT3FFL6gq_TW-iDT6cNnHbkNMV5UBTWX5qd7-wbsXh9qVVfJonTgk0i0",
       "initialize_sdk_backup": "",
       "main_ads_banner": "8dc1f33d50af8ac1",
@@ -15,7 +15,8 @@
       "link_redirect": "https://play.google.com/store/apps/details?id=com.corndevils.kissasian",
       "base_url": "https://runasian.net/",
       "current_version": "1.0.0",
-      "blogger_url": "https://animesuge77.blogspot.com/"
+      "blogger_url": "https://animesuge77.blogspot.com/",
+      "open_app_ads": "ca-app-pub-3940256099942544/3419835294"
     }
   ]
 }
