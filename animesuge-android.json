@@ -1,16 +1,16 @@
 {
     "ADS": [
         {
-            "select_main_ads": "APPLOVIN-M",
-            "select_backup_ads": "FAN",
-            "initialize_sdk": "X8O6FyOMsWfoiliX1lBk6Lz_kRCNx6RGIDTUfBuH98qJVfmbIMUXXPHSpbe4dlhVkEn9mAi93AwfliUeU1xgQi",
-            "initialize_sdk_backup": "TEST",
-            "main_ads_banner": "84062dc411aa24bb",
-            "backup_ads_banner": "TEST",
-            "main_ads_interstitial": "53fca575f6528dd7",
-            "backup_ads_interstitial": "TEST",
-            "rewarded_ad_id": "53fca575f6528dd7",
-            "backup_rewarded_ad_id": "TEST",
+            "select_main_ads": "FAN",
+            "select_backup_ads": "",
+            "initialize_sdk": "",
+            "initialize_sdk_backup": "",
+            "main_ads_banner": "",
+            "backup_ads_banner": "",
+            "main_ads_interstitial": "",
+            "backup_ads_interstitial": "",
+            "rewarded_ad_id": "",
+            "backup_rewarded_ad_id": "",
             "interstitial_counter": "10",
             "maintenance": "1",
             "status_app": "0",
@@ -19,7 +19,7 @@
             "instagram": "https://www.instagram.com/dramako_asian/reels/",
             "other_app": "https://play.google.com/store/apps/details?id=com.GoAsian.Dramas",
             "base_url": "https://gogoanime3.net/",
-            "current_version": "1.0.0",
+            "current_version": "1.0.1",
             "blogger_url": "https://animesuge77.blogspot.com/"
         }
     ]
