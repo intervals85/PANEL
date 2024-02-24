@@ -1,7 +1,7 @@
 {
   "ADS": [
     {
-      "select_main_ads": "ADMANAGER",
+      "select_main_ads": "ADMOB",
       "select_backup_ads": "",
       "initialize_sdk": "6UkH-GQ66vXybOyFSFoi9-VJn4vla5mT3FFL6gq_TW-iDT6cNnHbkNMV5UBTWX5qd7-wbsXh9qVVfJonTgk0i0",
       "initialize_sdk_backup": "",
