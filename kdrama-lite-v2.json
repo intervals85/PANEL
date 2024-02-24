@@ -1,22 +1,22 @@
 {
   "ADS": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "APPLOVIN-M",
       "select_backup_ads": "",
-      "initialize_sdk": "",
+      "initialize_sdk": "6UkH-GQ66vXybOyFSFoi9-VJn4vla5mT3FFL6gq_TW-iDT6cNnHbkNMV5UBTWX5qd7-wbsXh9qVVfJonTgk0i0",
       "initialize_sdk_backup": "",
-      "main_ads_banner": "/160553881,2307794219/apps.kdrama.streamingapp/banner",
+      "main_ads_banner": "8dc1f33d50af8ac1",
       "backup_ads_banner": "",
-      "main_ads_interstitial": "/160553881,2307794219/apps.kdrama.streamingapp/interstitial ",
+      "main_ads_interstitial": "cb347433e2c6f285",
       "backup_ads_interstitial": "",
       "interstitial_counter": "10",
       "maintenance": "0",
       "status_app": "0",
-      "link_redirect": "https://play.google.com/store/apps/details?id=com.kdrama.streamingapp",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.corndevils.kissasian",
       "base_url": "https://runasian.net/",
       "current_version": "1.14.2",
       "blogger_url": "https://animesuge77.blogspot.com/",
-      "open_app_ads": "/160553881,2307794219/apps.kdrama.streamingapp/open_app"
+      "open_app_ads": ""
     }
   ]
 }
