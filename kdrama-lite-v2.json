@@ -1,13 +1,13 @@
 {
   "ADS": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "FAN",
       "select_backup_ads": "",
-      "initialize_sdk": "6UkH-GQ66vXybOyFSFoi9-VJn4vla5mT3FFL6gq_TW-iDT6cNnHbkNMV5UBTWX5qd7-wbsXh9qVVfJonTgk0i0",
+      "initialize_sdk": "1057399361501096",
       "initialize_sdk_backup": "",
-      "main_ads_banner": "/160553881,2307794219/apps.kdrama.streamingapp/banner",
+      "main_ads_banner": "1057399361501096_1057400714834294",
       "backup_ads_banner": "",
-      "main_ads_interstitial": "/160553881,2307794219/apps.kdrama.streamingapp/interstitial",
+      "main_ads_interstitial": "1057399361501096_1057403094834056",
       "backup_ads_interstitial": "",
       "interstitial_counter": "10",
       "maintenance": "0",
