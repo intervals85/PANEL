@@ -10,11 +10,11 @@
       "main_ads_interstitial": "/160553881,23077942194/apps.kdrama.streamingapp/interstitial",
       "backup_ads_interstitial": "cb347433e2c6f285",
       "interstitial_counter": "10",
-      "maintenance": "0",
+      "maintenance": "1",
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.kdrama.streamingapp",
       "base_url": "https://runasian.net/",
-      "current_version": "1.14.3",
+      "current_version": "1.14.4",
       "blogger_url": "https://animesuge77.blogspot.com/",
       "open_app_ads": "/160553881,23077942194/apps.kdrama.streamingapp/open_app"
     }
