@@ -1,18 +1,20 @@
 {
-    "ADS": [
-        {
-            "select_main_ads": "APPLOVIN-M",
-            "select_backup_ads": "",
-            "initialize_sdk": "8PJ6kmxLKLnUGCAnExNolzUg5HItxFRdm8FSkW0c49xSgcx7DnfA9PW3ONTLbGQEA5hu2oQzFLaGP1FOmvQPfP",
-            "initialize_sdk_backup": "",
-            "main_ads_banner": "89f921c7be6f70e3",
-            "backup_ads_banner": "",
-            "main_ads_interstitial": "97b757e9cd9b0a3c",
-            "backup_ads_interstitial": "",
-            "interstitial_counter": "15",
-            "maintenance": "0",
-            "status_app": "0",
-            "link_redirect": "https://play.google.com/store/apps/details?id=com.dkspeed.mangascans"
-        }
-    ]
+  "ADS": [
+    {
+      "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads": "",
+      "initialize_sdk": "8PJ6kmxLKLnUGCAnExNolzUg5HItxFRdm8FSkW0c49xSgcx7DnfA9PW3ONTLbGQEA5hu2oQzFLaGP1FOmvQPfP",
+      "initialize_sdk_backup": "",
+      "main_ads_banner": "89f921c7be6f70e3",
+      "backup_ads_banner": "",
+      "main_ads_interstitial": "97b757e9cd9b0a3c",
+      "backup_ads_interstitial": "",
+      "interstitial_counter": "15",
+      "maintenance": "0",
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.comic.mangascans",
+      "base_url": "https://readm.today/",
+      "current_version": "1.1.2"
+    }
+  ]
 }
