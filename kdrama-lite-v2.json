@@ -1,8 +1,8 @@
 {
   "ADS": [
     {
-      "select_main_ads": "ADMANAGER",
-      "select_backup_ads": "APPLOVIN",
+      "select_main_ads": "APPLOVIN",
+      "select_backup_ads": "ADMANAGER",
       "initialize_sdk": "6UkH-GQ66vXybOyFSFoi9-VJn4vla5mT3FFL6gq_TW-iDT6cNnHbkNMV5UBTWX5qd7-wbsXh9qVVfJonTgk0i0",
       "initialize_sdk_backup": "6UkH-GQ66vXybOyFSFoi9-VJn4vla5mT3FFL6gq_TW-iDT6cNnHbkNMV5UBTWX5qd7-wbsXh9qVVfJonTgk0i0",
       "main_ads_banner": "/160553881,23077942194/apps.kdrama.streamingapp/banner",
