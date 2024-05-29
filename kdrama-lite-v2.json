@@ -1,14 +1,14 @@
 {
   "ADS": [
     {
-      "select_main_ads": "ADMANAGER",
-      "select_backup_ads": "APPLOVIN",
+      "select_main_ads": "APPLOVIN",
+      "select_backup_ads": "ADMANAGER",
       "initialize_sdk": "6UkH-GQ66vXybOyFSFoi9-VJn4vla5mT3FFL6gq_TW-iDT6cNnHbkNMV5UBTWX5qd7-wbsXh9qVVfJonTgk0i0",
       "initialize_sdk_backup": "6UkH-GQ66vXybOyFSFoi9-VJn4vla5mT3FFL6gq_TW-iDT6cNnHbkNMV5UBTWX5qd7-wbsXh9qVVfJonTgk0i0",
-      "main_ads_banner": "/160553881,23077942194/apps.kdrama.streamingapp/banner",
-      "backup_ads_banner": "8dc1f33d50af8ac1",
-      "main_ads_interstitial": "/160553881,23077942194/apps.kdrama.streamingapp/interstitial",
-      "backup_ads_interstitial": "cb347433e2c6f285",
+      "main_ads_banner": "8dc1f33d50af8ac1",
+      "backup_ads_banner": "/160553881,23077942194/apps.kdrama.streamingapp/banner",
+      "main_ads_interstitial": "cb347433e2c6f285",
+      "backup_ads_interstitial": "/160553881,23077942194/apps.kdrama.streamingapp/interstitial",
       "interstitial_counter": "10",
       "maintenance": "0",
       "status_app": "0",
