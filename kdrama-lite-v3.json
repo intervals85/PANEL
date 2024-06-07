@@ -17,7 +17,7 @@
       "backup_ads_rewarded": "/6499/example/rewarded",
       "main_ads_open_app": null,
       "backup_ads_open_app": "/6499/example/app-open",
-      "maintenance": "0",
+      "maintenance": "1",
       "status_app": "1",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.kdrama.streamingapp",
       "base_url": "https://runasian.net/",
