@@ -1,6 +1,6 @@
 {
   "base_url": "https://mangaid.top/api/v1",
   "Interstitial_type": "1",
-  "Interstitial_counter": "30",
+  "Interstitial_counter": "60",
   "interstitial_first_open_chapter": false
 }
