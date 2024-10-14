@@ -1,7 +1,7 @@
 {
   "base_url": "https://mangaid.top/api/v1",
   "d_url": "https://agc.erzanime.com/api/v1",
-  "versi": "1.0",
+  "versi": "1.2",
   "Interstitial_type": "1",
   "Interstitial_counter": "30",
   "interstitial_first_open_chapter": true
