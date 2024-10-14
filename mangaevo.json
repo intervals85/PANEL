@@ -1,8 +1,31 @@
 {
-  "base_url": "https://mangaid.top/api/v1",
-  "d_url": "https://agc.erzanime.com/api/v1",
-  "versi": "1.2",
-  "Interstitial_type": "1",
-  "Interstitial_counter": "30",
-  "interstitial_first_open_chapter": true
+  "CONFIG": [
+    {
+      "base_url": "https://mangaid.top/api/v1",
+      "d_url": "https://agc.erzanime.com/api/v1",
+      "versi": "1.2",
+      "status_app": "1",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.kdrama.streamingapp"
+    }
+  ]
+
+"ADS": [
+    {
+      "select_main_ads": "APPLOVIN",
+      "select_backup_ads": "ADMANAGER",
+      "initialize_sdk": "6UkH-GQ66vXybOyFSFoi9-VJn4vla5mT3FFL6gq_TW-iDT6cNnHbkNMV5UBTWX5qd7-wbsXh9qVVfJonTgk0i0",
+      "initialize_sdk_backup": "ca-app-pub-2186101008500724~3111668862",
+      "main_ads_banner": "8dc1f33d50af8ac1",
+      "backup_ads_banner": "/160553881,23077942194/apps.kdrama.streamingapp/banner",
+      "main_ads_interstitial": "cb347433e2c6f285",
+      "backup_ads_interstitial": "/160553881,23077942194/apps.kdrama.streamingapp/interstitial",
+      "main_ads_rewarded": null,
+      "backup_ads_rewarded": "/160553881,23077942194/apps.kdrama.streamingapp/rewarded",
+      "main_ads_open_app": null,
+      "backup_ads_open_app": "/160553881,23077942194/apps.kdrama.streamingapp/open_app",
+      "Interstitial_type": "1",
+      "Interstitial_counter": "30",
+      "interstitial_first_open_chapter": true
+    }
+  ]
 }
