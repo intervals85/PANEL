@@ -3,6 +3,8 @@
       "base_url": "https://mangaid.top/api/v1",
       "backup_url": "https://agc.erzanime.com/api/v1",
       "versi": "1.2",
+      "apikey": "KODE API",|
+      "antivpn": "true",
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.mangaid.bacakomikid"
     },
