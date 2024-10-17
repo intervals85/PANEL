@@ -1,5 +1,5 @@
 {
-  "base_url": "https://mangaid.top/api/v1",
+  "base_url": "https://mangaevo.net/api/v1",
   "Interstitial_type": "1",
   "Interstitial_counter": "30",
   "interstitial_first_open_chapter": true
