@@ -2,30 +2,31 @@
   "CONFIG": {
       "base_url": "https://mangaid.top/api/v1",
       "backup_url": "https://agc.erzanime.com/api/v1",
+      "use_backup_url_version": "1.0.98",
       "versi": "1.2",
-      "apikey": "KODE API",
-      "antivpn": "true",
-      "status_app": "0",
+      "anti_vpn": true,
+      "update_app": false,
       "link_redirect": "https://play.google.com/store/apps/details?id=com.mangaid.bacakomikid"
     },
 
   "ADS": [
     {
-      "select_main_ads": "APPLOVIN",
-      "select_backup_ads": "ADMANAGER",
-      "initialize_sdk": "6UkH-GQ66vXybOyFSFoi9-VJn4vla5mT3FFL6gq_TW-iDT6cNnHbkNMV5UBTWX5qd7-wbsXh9qVVfJonTgk0i0",
-      "initialize_sdk_backup": "ca-app-pub-2186101008500724~3111668862",
-      "main_ads_banner": "8dc1f33d50af8ac1",
-      "backup_ads_banner": "/160553881,23077942194/apps.kdrama.streamingapp/banner",
-      "main_ads_interstitial": "cb347433e2c6f285",
-      "backup_ads_interstitial": "/160553881,23077942194/apps.kdrama.streamingapp/interstitial",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN",
+      "initialize_sdk": "ca-app-pub-1515798116178755~4846506371",
+      "initialize_sdk_backup": "6UkH-GQ66vXybOyFSFoi9-VJn4vla5mT3FFL6gq_TW-iDT6cNnHbkNMV5UBTWX5qd7-wbsXh9qVVfJonTgk0i0",
+      "main_ads_banner": null,
+      "backup_ads_banner": null,
+      "main_ads_interstitial": "ca-app-pub-1515798116178755/2065867159",
+      "backup_ads_interstitial": "08c5327ca74e33bd",
       "main_ads_rewarded": null,
-      "backup_ads_rewarded": "/160553881,23077942194/apps.kdrama.streamingapp/rewarded",
+      "backup_ads_rewarded": null,
       "main_ads_open_app": null,
-      "backup_ads_open_app": "/160553881,23077942194/apps.kdrama.streamingapp/open_app",
-      "Interstitial_type": "1",
-      "Interstitial_counter": "30",
-      "interstitial_first_open_chapter": true
+      "backup_ads_open_app": null,
+      "timer_inters_type": "1",
+      "timer_inters_counter": "30",
+      "show_inters_first_open_episode": true
+
     }
   ]
 }
