@@ -22,6 +22,7 @@
       "link_redirect": "https://play.google.com/store/apps/details?id=com.kdrama.streamingapp",
       "base_url": "https://asianc.sh/",
       "current_version": "1.14.6",
+      "firewall": true,
       "blogger_url": "https://animesuge77.blogspot.com/"
     }
   ]
