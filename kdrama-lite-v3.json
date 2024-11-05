@@ -17,11 +17,11 @@
       "backup_ads_rewarded": "/160553881,23077942194/apps.kdrama.streamingapp/rewarded",
       "main_ads_open_app": null,
       "backup_ads_open_app": "/160553881,23077942194/apps.kdrama.streamingapp/open_app",
-      "maintenance": "0",
+      "maintenance": "1",
       "status_app": "1",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.kdrama.streamingapp",
       "base_url": "https://asianc.sh/",
-      "current_version": "1.14.6",
+      "current_version": "1.14.8",
       "firewall": true,
       "url_firewall": "https://fw.erzanime.com/api/v1/check",
       "blogger_url": "https://animesuge77.blogspot.com/"
