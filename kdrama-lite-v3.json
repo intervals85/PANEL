@@ -20,7 +20,7 @@
       "maintenance": "0",
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.kdrama.streamingapp",
-      "base_url": "https://asianc.sh/",
+      "base_url": "https://watchasia.to/",
       "current_version": "1.14.8",
       "firewall": true,
       "url_firewall": "https://fw.erzanime.com/api/v1/check",
